@@ -1,38 +1,61 @@
 
-GEX Levels - 2026-06-13 11:39:52
+GEX Levels - 2026-06-13 11:48:28
 Spot Price: $450.00
 
 ════════════════════════════════════════
 KEY LEVELS
 ════════════════════════════════════════
-HVL (Highest Value Level): $500.00
+HVL (Highest Value Level): $450.00
+Zero Gamma Point: Not detected
 
-Gamma Flip Zones:
+════════════════════════════════════════
+GAMMA FLIP ZONES
+════════════════════════════════════════
   • None detected
 
 ════════════════════════════════════════
-SUPPORT & RESISTANCE
+SUPPORT (Positive GEX - Call Gamma)
 ════════════════════════════════════════
-Major Support (Positive GEX):
-  • $500.00
-  • $505.00
-  • $510.00
+  • $450.00
+  • $445.00
+  • $455.00
+  • $440.00
+  • $460.00
 
-Major Resistance (Negative GEX):
+════════════════════════════════════════
+RESISTANCE (Negative GEX - Put Gamma)
+════════════════════════════════════════
   • None
 
 ════════════════════════════════════════
-ALL GEX ZONES
+ALL GEX ZONES (Top 10 Each)
 ════════════════════════════════════════
 Positive GEX (Support):
-  • $500.00
-  • $505.00
-  • $510.00
-  • $515.00
-  • $520.00
-  • $525.00
-  • $530.00
-  • $535.00
+  • $450.00
+  • $445.00
+  • $455.00
+  • $440.00
+  • $460.00
+  • $435.00
+  • $465.00
+  • $430.00
+  • $470.00
+  • $425.00
 
 Negative GEX (Resistance):
   • None
+
+════════════════════════════════════════
+GEX TOTALS
+════════════════════════════════════════
+Total Positive GEX (Call Support): 266,104,287
+Total Negative GEX (Put Resistance): 0
+Net GEX: 266,104,287
+
+════════════════════════════════════════
+TRADINGVIEW INPUT (Copy this section)
+════════════════════════════════════════
+HVL: $450.00
+Spot: $450.00
+Support Levels: $450.00, $445.00, $455.00
+Resistance Levels: 

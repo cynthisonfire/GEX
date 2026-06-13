@@ -1,0 +1,38 @@
+
+GEX Levels - 2026-06-13 11:39:52
+Spot Price: $450.00
+
+════════════════════════════════════════
+KEY LEVELS
+════════════════════════════════════════
+HVL (Highest Value Level): $500.00
+
+Gamma Flip Zones:
+  • None detected
+
+════════════════════════════════════════
+SUPPORT & RESISTANCE
+════════════════════════════════════════
+Major Support (Positive GEX):
+  • $500.00
+  • $505.00
+  • $510.00
+
+Major Resistance (Negative GEX):
+  • None
+
+════════════════════════════════════════
+ALL GEX ZONES
+════════════════════════════════════════
+Positive GEX (Support):
+  • $500.00
+  • $505.00
+  • $510.00
+  • $515.00
+  • $520.00
+  • $525.00
+  • $530.00
+  • $535.00
+
+Negative GEX (Resistance):
+  • None
